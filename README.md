@@ -1,8 +1,7 @@
-# fear-history-channel-battle-for-pacific-wii
 
 # fear-history-channel-battle-for-pacific-wii
 ## F.E.A.R - History Channel Battle For Pacific Wii Remake
-A remake of *History Channel Battle For Pacific Wii* — the 2006 budget first-person shooter developed by Direct Action Games — rebuilt in the **F.E.A.R** engine, using Vanguard's pointer aiming, gesture controls, and Wii FPS feel as the technical base.
+A remake of *History Channel Battle For Pacific Wii* — the 2007 budget first-person shooter developed by Magic Wand Productions — rebuilt in the **F.E.A.R** engine, using Vanguard's pointer aiming, gesture controls, and Wii FPS feel as the technical base.
 
 ## Github Treeview
 [https://treegit.macosxjs.com/?url=igiteam/fear-history-channel-battle-for-pacific-wii](https://treegit.macosxjs.com/?url=igiteam/fear-history-channel-battle-for-pacific-wii)
